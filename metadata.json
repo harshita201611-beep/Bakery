@@ -1,0 +1,6 @@
+{
+  "name": "HR Artisanal Bakery",
+  "description": "Slow-fermented sourdough, laminated butter viennoiserie, and bespoke celebration cakes handcrafted daily in Sector 43, Gurgaon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
